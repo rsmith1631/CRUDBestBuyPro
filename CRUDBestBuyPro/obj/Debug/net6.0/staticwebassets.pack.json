@@ -5,6 +5,306 @@
       "PackagePath": "staticwebassets\\CRUDBestBuyPro.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\css\\templatemo-hexashop.css",
+      "PackagePath": "staticwebassets\\Theme\\assets\\css\\templatemo-hexashop.css"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\about-us-page-heading.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\about-us-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\baner-right-image-04.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\baner-right-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\explore-image-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\explore-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\explore-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\instagram-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\instagram-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\instagram-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\instagram-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\instagram-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\instagram-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\kid-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\kid-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\left-banner-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\men-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\men-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\men-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\men-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\men-03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\men-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\products-page-heading.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\products-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\service-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\service-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\service-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\single-product-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\single-product-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\single-product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\team-member-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\team-member-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\team-member-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\team-member-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\team-member-03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\team-member-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\white-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\women-01.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\women-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\women-02.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\women-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\images\\women-03.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\images\\women-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\quantity.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\Theme\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Theme\\assets\\js\\waypoints.min.js"
+    },
+    {
       "Id": "C:\\Users\\rsmit\\OneDrive\\Desktop\\CRUDBestBuyPro\\CRUDBestBuyPro\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
